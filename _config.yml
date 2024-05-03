@@ -21,10 +21,10 @@
 title: Andrews Peter Blog
 email: andrews.peter.business@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a experienced full stack developer working with React and Spring Boot.
-  Currently trying to get into the datascience/AI field.
-  I know I want to build intelligent machines so that is what my blogs will be
-  about.
+"I am an experienced full-stack developer specializing in React and Spring Boot,
+now venturing into the data science and AI fields. My blog focuses on my journey
+and projects in building intelligent machines. Join me as I explore the cutting-edge
+technologies and methodologies that drive the future of AI.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
