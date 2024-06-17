@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fundamentals of Machine Learning: Backpropagation"
+title: "Intuition for Fundamentals of Machine Learning: Backpropagation"
 date: 2024-06-10
 categories: datascience
 ---
