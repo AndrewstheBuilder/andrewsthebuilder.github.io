@@ -32,7 +32,7 @@ ${\Huge L = \frac{1}{2}(y - y_{\text{true}})^2}$
 - ${\Huge \frac{d}{dx}[f(g(x))] = f^`(g(x)) * g^`(x)}$
 
 ### 4a. Loss function as a composite function
-- ${\Huge L = \frac{1}{2}(y - y_{\text{true}})^2}$
+- $${\Huge L = \frac{1}{2}(y - y_{\text{true}})^2}$$
 - ${\Huge L = \frac{1}{2}(a - y_{\text{true}})^2}$
 - ${\Huge L = \frac{1}{2}(\sigma(z) - y_{\text{true}})^2}$
 - ${\Huge L = \frac{1}{2}(\sigma(Wx + b) - y_{\text{true}})^2}$
