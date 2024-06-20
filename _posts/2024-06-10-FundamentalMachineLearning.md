@@ -40,5 +40,5 @@ $${\Huge L = \frac{1}{2}(y - y_{\text{true}})^2}$$
 #### Derivative of Loss Function with respect to W
 #### https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/a/chain-rule-review
 - We need how the loss would change as W changes hence we need $${\frac{dL}{dW}}$$.
-- $${\Huge \frac{dL}{dW} = \textcolor{green}{\frac{2}{2}(\sigma(Wx+b) - Y_{true})} * \textcolor{red}{1} * \textcolor{orange}{\sigma(Wx+b) *(1-\sigma(Wx+b))} * \textcolor{purple}{x}}$$
-- $${\Huge \frac{dL}{dW} = \textcolor{green}{\frac{dL}{dy}} * \textcolor{red}{\frac{dy}{da}} *\textcolor{orange}{\frac{da}{dz}} *\textcolor{purple}{\frac{dz}{dW}}}$$
+- $${\Huge \frac{dL}{dW} = \color{green}{\frac{2}{2}(\sigma(Wx+b) - Y_{true})} * \color{red}{1} * \color{orange}{\sigma(Wx+b) *(1-\sigma(Wx+b))} * \color{purple}{x}}$$
+- $${\Huge \frac{dL}{dW} = \color{green}{\frac{dL}{dy}} * \color{red}{\frac{dy}{da}} *\color{orange}{\frac{da}{dz}} *\color{purple}{\frac{dz}{dW}}}$$
