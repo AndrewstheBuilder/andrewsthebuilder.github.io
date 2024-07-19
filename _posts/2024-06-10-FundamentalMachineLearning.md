@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intuition for Fundamentals of Machine Learning: Backpropagation"
+title: "Intuition for Fundamentals of Machine Learning: Backpropagation Chain Rule"
 date: 2024-06-10
 categories: datascience
 ---
