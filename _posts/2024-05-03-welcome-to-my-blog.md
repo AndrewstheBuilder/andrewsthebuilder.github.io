@@ -17,8 +17,6 @@ Here are some topics I plan to explore and share with you:
 
 - **Learning Path**: Documenting the resources, courses, and methodologies I find effective as I learn more about data science and AI.
 - **Project Showcases**: Details of projects I am working on, including the challenges I face and how I solve them.
-- **Technology Reviews**: Evaluations of tools and technologies as I apply them in real-world scenarios.
-- **Thought Leadership**: My perspectives on where the field is heading and how it can impact our world.
 
 Thank you for joining me on this journey. I am excited to learn and grow in this new field, and I hope you find the content here insightful and inspiring.
 
