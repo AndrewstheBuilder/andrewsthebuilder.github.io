@@ -35,7 +35,7 @@ I need to be able to retrieve jiu jitsu film for 3 general battles that happen i
   - ![alt text](/assets/images/DevJournal_JiuJitsuVideoAnalysis/01/image-1.png)
     - [YoloV11 mAP](/assets/images/DevJournal_JiuJitsuVideoAnalysis/01/https://docs.ultralytics.com/tasks/pose/#models)
   - ![alt text](/assets/images/DevJournal_JiuJitsuVideoAnalysis/01/image-2.png)
-    - [Alpha Pose AP metrix] (https://github.com/MVIG-SJTU/AlphaPose)
+    - [Alpha Pose AP metrics](https://github.com/MVIG-SJTU/AlphaPose)
   - This shows Alpha Pose might be better than YoloV11 if you pay attention to AP 0.5 and AP 0.5-0.95. But who really knows and its a small enough difference that I can use whichever one is easier to use which at this point is YoloV11.
 - TODO:
   - I think I want to train a model to specifically detect poses on jiu jitsu players. It seems like models do not have this in their training sets and they should because there are a lot of interesting cases of occlusion there. I have the intuition that I can train a neural network to do pose estimation for jiu jitsu specific occlusion cases because of outputs like these for AlphaPose and YoloV11:
